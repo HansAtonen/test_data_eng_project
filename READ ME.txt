@@ -1,0 +1,10 @@
+Open the command prompt/terminal
+
+Locate the folder containing all the files
+
+Enter the command docker-compose up --build
+
+Find the services by entering the adress to your browser:
+
+(Airflow) Login: airflow, Password: airflow
+(Grafana) Login: admin, Password: admin
